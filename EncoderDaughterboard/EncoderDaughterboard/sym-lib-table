@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP2040")(type "KiCad")(uri "C:/Users/rvalm/Documents/Teensy-Synth/PCB FILES/Footprints&Symbols/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC6300")(type "KiCad")(uri "C:/Users/rvalm/Documents/Teensy-Synth/EncoderDaughterboard/TMC6300/2023-09-12_19-03-29.kicad_sym")(options "")(descr ""))
+)
