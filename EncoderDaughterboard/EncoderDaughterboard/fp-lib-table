@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "TMC6300")(type "KiCad")(uri "C:/Users/rvalm/Documents/Teensy-Synth/EncoderDaughterboard/TMC6300/footprints.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "C:/Users/rvalm/Documents/Teensy-Synth/PCB FILES/Footprints&Symbols/RP2040")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/dylan/OneDrive/Documents/GitHub/Teensy-Synth/EncoderDaughterboard/TMC6300/footprints.pretty")(options "")(descr ""))
+  (lib (name "RP2040D")(type "KiCad")(uri "C:/Users/dylan/OneDrive/Documents/GitHub/Teensy-Synth/PCB FILES/Footprints&Symbols/RP2040")(options "")(descr ""))
 )
